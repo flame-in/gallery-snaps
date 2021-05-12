@@ -1,2 +1,3 @@
 # gallery-snaps
-Site
+
+Gallery website for screenshots and in-game settings.
